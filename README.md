@@ -8,9 +8,9 @@ This repository documents my progress in:
 
 | Skill Area | Status | Documentation |
 |------------|--------|--------------|
-| Git & GitHub | 🟡 In Progress | [View Git Notes](./git/README.md) |
+| Git & GitHub | 🟢 In Progress | [View Git Notes](./git/README.md) |
 | Python | 🟡 In Progress | [View Python Notes](./python/README.md) |
-| Linux | 🟡 In Progress | [View Linux Notes](./linux/README.md) |
+| Linux | 🟢 In Progress | [View Linux Notes](./linux/README.md) |
 
 🟢 Completed  
 🟡 In Progress  
